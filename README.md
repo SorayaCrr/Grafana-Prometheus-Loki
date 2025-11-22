@@ -87,8 +87,7 @@ docker ps
 ### 1. Clonar o Descargar el Proyecto
 
 ```bash
-git clone <repository-url>
-cd lab12-sab
+git clone <https://github.com/SorayaCrr/Grafana-Prometheus-Loki.git>
 ```
 
 ### 2. Estructura del Proyecto
